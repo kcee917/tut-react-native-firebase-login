@@ -104,7 +104,8 @@ npm install @react-navigation/native && npm install @react-navigation/stack
 * Use Expo to install additional packages
 
 ```
-expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
 ```
 
 * Add various UI components and packages to be used in the project
